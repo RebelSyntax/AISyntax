@@ -1,0 +1,2 @@
+# AISyntax
+Discord Bot
