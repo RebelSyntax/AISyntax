@@ -11,8 +11,6 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 import { Hono } from 'hono'
-import { } from '@cloudflare/ai/'
-import { AiTranslation } from '@cloudflare/ai/dist/ai/tasks/translation';
 
 interface Env {
 	APP_NAME: "AI Syntax";
